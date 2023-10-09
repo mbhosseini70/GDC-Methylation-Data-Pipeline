@@ -3,6 +3,15 @@
 
 # Comprehensive DNA Methylation Data Processing for All TCGA Cancer Projects
 
+
+
+For those wishing to run or edit this script, it's highly recommended to utilize [Google Colab](https://colab.research.google.com/). The motivation for this recommendation is twofold:
+
+1. **Library Dependencies**: Google Colab provides a streamlined environment for managing the necessary R library dependencies without the need for local setup.
+   
+2. **Data Volume**: The script processes a significant volume of data. Google Colab offers a cloud-based solution, ensuring smooth performance and alleviating the need for local computational resources.
+
+
 ## Description
 The script facilitates seamless data extraction and preparation from the TCGA. The functionalities included are:
 - Library installation
